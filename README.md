@@ -50,17 +50,6 @@ Main System: TPP
 
 ---
 
-## 📊 Current Statistics (Jan 2025)
-
-| Metric | Value |
-| :--- | :--- |
-| **Total GP Practices** | 6,154 |
-| **TPP Market Share** | 62.51% |
-| **EMIS Market Share** | 37.41% |
-| **Medicus/Other** | 0.08% |
-
----
-
 ## 📁 Project Structure (3-Layer Architecture)
 
 ```text

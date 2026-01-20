@@ -94,16 +94,7 @@ View distribution of IT systems across all GP practices:
 python execution/gp_lookup.py --stats
 ```
 
-**Output**:
-```
-total_practices: 6154
-systems:
-  TPP:
-    count: 3847
-    percentage: 62.51
-  EMIS:
-    count: 2307
-    percentage: 37.49
+
 ```
 
 ### JSON Output
