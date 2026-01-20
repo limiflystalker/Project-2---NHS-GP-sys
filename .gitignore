@@ -1,0 +1,21 @@
+
+.tmp/
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.zip
+.tmp/
+__pycache__/
+*.pyc
